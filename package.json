@@ -1,0 +1,14 @@
+{
+  "name": "test-parcel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel serve src/*"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "tailwindcss": "^1.8.13"
+  }
+}
